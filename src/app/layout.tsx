@@ -25,7 +25,7 @@ export const metadata = {
     siteName: "StarkDesk",
     images: [
       {
-        url: "", // Your hosted image
+        url: "https://light-theme-test1-six.vercel.app/preview.PNG", // Your hosted image
       
         // url: "https://starkdesk.in/images/og-image.jpg", // Your hosted image
         width: 1200,
