@@ -25,8 +25,8 @@ export const metadata = {
     siteName: "StarkDesk",
     images: [
       {
-        url: "../assets/starkdesk-logo.jpg", // Your hosted image
-        
+        url: "", // Your hosted image
+      
         // url: "https://starkdesk.in/images/og-image.jpg", // Your hosted image
         width: 1200,
         height: 630,
